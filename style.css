@@ -1,0 +1,31 @@
+.back{
+    background-image: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 220px;
+	padding: 10px;
+ }
+h3
+{
+	display: inline-block;
+    border-radius: 10px;
+
+}
+
+#heading
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+#mycanvas{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
